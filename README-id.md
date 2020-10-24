@@ -6,11 +6,11 @@
 
 Tulisan ini  adalah referensi untuk memudahkan programer menggunakan  notasi matematika, serta  membandingkan tatacara penulisan pada code  python dan JavaScript.
 
-Motivasi: Academic papers can be intimidating for self-taught game and graphics programmers. :) 
+Motivasi: Paper akadamis  dapat mengintimidasi  para pembelajar otodidak dan programmer grafis. :) 
 
-This guide is not yet finished. If you see errors or want to contribute, please [open a ticket](https://github.com/Jam3/math-as-code/issues) or send a PR.
+Panduan ini belum selesai. Jika menemukan kesalah dan ingin berkontribusi, selilahkan membuat tiketing pada link [open a ticket](https://github.com/Jam3/math-as-code/issues) atau kirim pesan pribadi.
 
-> **Note**: For brevity, some code examples make use of [npm packages](https://www.npmjs.com/). You can refer to their GitHub repos for implementation details.
+> **Catatan**: For brevity, some code examples make use of [npm packages](https://www.npmjs.com/). You can refer to their GitHub repos for implementation details.
 
 
 
